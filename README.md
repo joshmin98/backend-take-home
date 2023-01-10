@@ -9,6 +9,10 @@ i.e.
 
 `./gradlew run --args "-l English"` to get an English quote
 
+# Time Spent
+
+~50 minutes
+
 # Summary
 Write a Java command line program `quotely` which takes as an argument `English` or `Russian` and returns a quote from the forismatic API with the correct language.
 If a language is not specified, default to English.
